@@ -8,6 +8,7 @@ world as all jobs of SWE require working in teams. It simply makes the process o
 organized, and successful. Even as an individual, one would want to use git to better organize their work, test different 
 features, etc. Overall, these are just a few reasons to use git and there are many, many more. 
 
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to any field that relies on quanitative information. For example, 
@@ -21,3 +22,9 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging combines file changes from one branch into another branch. For example, we changed q1 and q2 and merged both of
 those file changes in main. Rebasing is applying the commit history of one branch to another, which allows you to see 
 the changes from each but all in one branch. 
+
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data analysis skills, I hope to become more proficient at creating programs that interact with
+databases in SQL, I hope to lay a foundation for ML, and I hope to get better at git. 
