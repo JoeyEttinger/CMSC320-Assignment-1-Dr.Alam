@@ -15,3 +15,9 @@ in financial management, data scientists look at a whole bunch of different metr
 risk, etc. of certain investments. Another example could be in professional sports. Data scientists collect
 vast amounts of data to derive insights on players, how good they are, their strengths and weaknesses, etc. 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines file changes from one branch into another branch. For example, we changed q1 and q2 and merged both of
+those file changes in main. Rebasing is applying the commit history of one branch to another, which allows you to see 
+the changes from each but all in one branch. 
