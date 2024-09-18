@@ -1,0 +1,8 @@
+Q1: Why might be consider using git?
+
+Answer: git, to put it simply, has revolutionzied software engineering by enhancing the collaborative nature of development. 
+With git, you can now collaborate with people in a seamless and meaningful way. People can work on tasks seperately and 
+gracefully bring their work together into one working product. One would be very inclined to use this in the working 
+world as all jobs of SWE require working in teams. It simply makes the process of software development more efficient, 
+organized, and successful. Even as an individual, one would want to use git to better organize their work, test different 
+features, etc. Overall, these are just a few reasons to use git and there are many, many more. 
