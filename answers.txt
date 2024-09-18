@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to any field that relies on quanitative information. For example, 
+in financial management, data scientists look at a whole bunch of different metrics to determine the quality, 
+risk, etc. of certain investments. Another example could be in professional sports. Data scientists collect
+vast amounts of data to derive insights on players, how good they are, their strengths and weaknesses, etc. 
